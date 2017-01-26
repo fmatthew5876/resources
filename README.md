@@ -29,3 +29,5 @@
  * https://channel9.msdn.com/Events/Speakers/eric-brumer
 * Sean Parent
  * http://sean-parent.stlab.cc/papers-and-presentations
+* Agner Fog
+ * http://www.agner.org/
